@@ -1,0 +1,20 @@
+.imageClass{
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+}
+.toggle{
+    opacity: .2;
+}
+.description{
+    position: absolute;
+    /* will sit on top of anything its called over */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.images{
+    position: relative;
+    text-align: center;
+    display: block;
+}
