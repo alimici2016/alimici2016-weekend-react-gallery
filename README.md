@@ -8,7 +8,7 @@ This project was the first time I worked with react on this scale. It forced me 
 
 ## Description 
 
-This App allows a user to add, movies on to the DOM using React's virtual DOM. Using HTTP routes the user can send movies to the sql database, they can return movies from the database, update and delete movies in the database.  The user can interact with the DOM by liking the movies, below the poster is a counter that calculates the amount of people who liked the photo.
+This App allows a user to add, movies on to the DOM using React's virtual DOM. Using HTTP routes the user can send movies to the sql database and they can return movies from the database. The user can interact with the DOM by liking the movies, below the poster is a counter that calculates the amount of people who liked the photo.
 
 ## Screenshots
 ![Screenshot 1](screenshot1.png)
