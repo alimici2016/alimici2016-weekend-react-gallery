@@ -11,11 +11,11 @@ This project was the first time I worked with react on this scale. It forced me 
 This App allows a user to add, delete and update items on the DOM using React's virtual DOM. Using HTTP routes the user can send movies to the sql database, they can return movies from the database, update and delete movies in the database.  The user can interact with the DOM by liking the movies, below the poster is a counter that calculates the amount of people who liked the photo.
 
 ## Screenshots
-![Screenshot 1](Screenshots/screenshot1.png)
-![Screenshot 2](Screenshots/screenshot2.png)
-![Screenshot 3](Screenshots/screenshot3.png)
-![Screenshot 4](Screenshots/screenshot4.png)
-![Screenshot 5](Screenshots/screenshot5.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+![Screenshot 4](screenshot4.png)
+![Screenshot 5](screenshot5.png)
 
 ## Prerequisites
 --NODE.JS
