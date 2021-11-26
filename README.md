@@ -18,15 +18,15 @@ This App allows a user to add, movies on to the DOM using React's virtual DOM. U
 ![Screenshot 5](screenshot5.png)
 
 ## Prerequisites
---NODE.JS
---POSTGRESQL
---POSTICO
---POSTMAN
+1. NODE.JS
+2. POSTGRESQL
+3. POSTICO
+4. POSTMAN
 
 ## Built with
-1.CSS
-2.JAVASCRIPT
-3.REACT.JS
-4.POSTGRESQL
-5.NODE.JS
+1. CSS
+2. JAVASCRIPT
+3. REACT.JS
+4. POSTGRESQL
+5 .NODE.JS
 6.MATERIAL UI
