@@ -28,5 +28,5 @@ This App allows a user to add, movies on to the DOM using React's virtual DOM. U
 2. JAVASCRIPT
 3. REACT.JS
 4. POSTGRESQL
-5 .NODE.JS
-6.MATERIAL UI
+5. NODE.JS
+6. MATERIAL UI
